@@ -1,9 +1,9 @@
 ### Hi there, I'm Ethan👋
 
 ## 💫 About Me:
-😎 Software Engineer seeking to advance my tech stack.
-🏡 Located in Hertfordshire. UK
-👨‍🎓 Studied Computer Science at Royal Holloway, University of London.
+😎 Software Engineer seeking to advance my tech stack.<br>
+🏡 Located in Hertfordshire. UK<br>
+👨‍🎓 Studied Computer Science at Royal Holloway, University of London.<br>
 🔭 Currently exploring RESTful services and cloud computing.
 
 
