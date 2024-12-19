@@ -1,6 +1,6 @@
-## Hi there, I'm Ethan👋
+### Hi there, I'm Ethan👋
 
-# 💫 About Me:
+## 💫 About Me:
 Software Engineer seeking to advance my tech stack.<br>Studied Computer Science at Royal Holloway, University of London.<br>Currently delving into RESTful services and cloud computing.
 
 
